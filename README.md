@@ -1,4 +1,4 @@
 # psd-to-html
 assignment psd to html
 
-![psd to html-min](https://user-images.githubusercontent.com/41857483/90717948-89ba8a00-e2d0-11ea-807f-c5e835216d39.jpg)
+![ccc-min (1)](https://user-images.githubusercontent.com/41857483/90718306-5298a880-e2d1-11ea-97d8-c89bda6d3806.jpg)
